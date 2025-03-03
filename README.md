@@ -4,17 +4,18 @@
 This project presents a comprehensive analysis of the Covid-19 dataset, utilizing Python for in-depth data exploration and Tableau for interactive visualization. It focuses on tracking and comparing Covid-19 case trends across various countries, uncovering patterns in infection rates, recovery, and mortality over time. The analysis aims to provide clear insights into the pandemic’s progression, helping identify high-risk regions and key factors influencing case surges. Additionally, the project includes the development of dynamic dashboards designed to equip public health stakeholders with actionable insights for informed decision-making and strategic response planning.
 
 ## Table of Content
-- Project Overview
-- Project Objectives
-- Document Purpose
-- Use Case
-- Skills Demonstrated
-- Data Source
-- Data Processing and Modification
-- Data Analysis and Insights
-- Data Visualization
-- Recommendations
-- Conclusion
+- [Project Overview](https://github.com/DannyAlao/Covid-19-Analysis?tab=readme-ov-file#project-overview)
+- [Project Objectives](https://github.com/DannyAlao/Covid-19-Analysis?tab=readme-ov-file#project-objectives)
+- [Document Purpose](https://github.com/DannyAlao/Covid-19-Analysis?tab=readme-ov-file#document-purpose)
+- [Use Case](https://github.com/DannyAlao/Covid-19-Analysis?tab=readme-ov-file#use-case)
+- [Skills Demonstrated](https://github.com/DannyAlao/Covid-19-Analysis?tab=readme-ov-file#skills-demonstrated)
+- [Data Source](https://github.com/DannyAlao/Covid-19-Analysis?tab=readme-ov-file#data-source)
+- [Data Cleaning, Processing and Modification](https://github.com/DannyAlao/Covid-19-Analysis?tab=readme-ov-file#data-cleaning-preprocessing-and-modification)
+- [Exploratory Data Analysis](https://github.com/DannyAlao/Covid-19-Analysis?tab=readme-ov-file#exploratory-data-analysis-eda)
+- [Data Analysis and Insights](https://github.com/DannyAlao/Covid-19-Analysis?tab=readme-ov-file#data-analysis-and-insights)
+- [Data Visualization](https://github.com/DannyAlao/Covid-19-Analysis?tab=readme-ov-file#data-visualization)
+- [Recommendations](https://github.com/DannyAlao/Covid-19-Analysis?tab=readme-ov-file#recommendations)
+- [Conclusion](https://github.com/DannyAlao/Covid-19-Analysis?tab=readme-ov-file#conclusion)
 
 ## Project Overview
 This project harnesses Python and Tableau to conduct a detailed analysis of the Covid-19 dataset, providing insights into case distribution across geographical and demographic dimensions. It examines infection counts, death tolls, and vaccination rates by continent and country, highlighting trends critical for public health decision-making. Through interactive dashboards, stakeholders gain a clear view of regional impacts, aiding strategic responses to the pandemic.
@@ -381,10 +382,7 @@ The above result was incorporated with visualization power of Tableau to view th
 ## Data Visualization
 This analysis was visualized using Tableau. Tableau was used to complement the analytical power of python to visualize the total covid 19 cases, death and vaccination across different continent and region. The visualization of the covid 19 dataset was done using various types of visualization chart, line chart, Scatterplot, etc. Each visual representation is designed to address specific questions central to the project objectives, providing insights and facilitating a deeper understanding of the dataset while closely aligning with the project's goals. Below is a screenshot of the dashboard created to visualize this analysis in alignment with the project’s analytical objectives.
 
-![Covid-19 Analysis Dashboard](https://raw.githubusercontent.com/DannyAlao/Covid-19-Analysis/main/Covid-19_Analysis_Dashboard.png)
-
-![Covid-19 Analysis Dashboard](./images/Covid-19_Analysis_Dashboard.png)
-
+![Covid-19 Analysis Dashboard](Covid_19_Analysis_Dashboard.png)
 
 Explore the dashboard interactively to gain a clearer and more detailed understanding of the analysis [here](https://public.tableau.com/views/Covid-19Analysis_17321079208650/Covid-19AnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
