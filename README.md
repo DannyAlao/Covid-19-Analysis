@@ -1,6 +1,8 @@
 # Covid-19 Analysis
 -------------------
 
+![](Covid_19_Image.png)
+
 ## Introduction
 This project presents a comprehensive analysis of the Covid-19 dataset, utilizing Python for in-depth data exploration and Tableau for interactive visualization. It focuses on tracking and comparing Covid-19 case trends across various countries, uncovering patterns in infection rates, recovery, and mortality over time. The analysis aims to provide clear insights into the pandemic’s progression, helping identify high-risk regions and key factors influencing case surges. Additionally, the project includes the development of dynamic dashboards designed to equip public health stakeholders with actionable insights for informed decision-making and strategic response planning.
 
